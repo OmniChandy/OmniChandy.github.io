@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : “OmniChandy”
+title                    : A blog about nothing and everything
 title_separator          : "-"
-name                     : “Chandler”
+name                     : OmniChandy
 description              : “A nothing related nonsense blog about every step towards self-destruction.”
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : “Chandler”
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : “The far South of China/n- Melbourne”
+  bio              : “Now live in Melbourne, postgraduated, between jobs, WOW casual player, business information system intern, entry level vaper. Tattoo fan with no tattoo”
+  location         : The far South of China - Melbourne
   email            :
   uri              :
   bitbucket        :
