@@ -3,9 +3,14 @@ main:
   - title: Nonsense
     url: /Nonsense/
   - title: Cooking
-    url: https://google.com
+    url: /Cooking/
   - title: Reading
-  - title: Oz life
+    url: /Reading/
+  - title: Ozlife
+    url: /Ozlife/
   - title: vape
+    url: /vape/
   - title: Tech
+    url: /Tech/
   - title: About
+    url: /About/
