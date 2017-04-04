@@ -1,7 +1,9 @@
 # main links
 main:
   - title: Nonsense
+    url: /Nonsense/
   - title: Cooking
+    url: https://google.com
   - title: Reading
   - title: Oz life
   - title: vape
