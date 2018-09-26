@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Tech/
-title: Where I pretend to care about IT
+title: Where IT Makes a difference
 author_profile: true
 comments: true
 ---
