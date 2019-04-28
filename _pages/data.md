@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /vape/
-title: Things about vaping.
+permalink: /data-analysis-learning/
+title: Data analysis learning notes.
 author_profile: true
 comments: true
 ---
@@ -10,7 +10,7 @@ comments: true
 
 
   <div class="grid__wrapper">
-  {% for post in site.categories.vape %}
+  {% for post in site.categories.data %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
   </div>
