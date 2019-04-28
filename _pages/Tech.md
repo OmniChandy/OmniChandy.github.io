@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Tech/
-title: Where IT Makes a difference
+title: Where Technology Makes a difference
 author_profile: true
 comments: true
 ---
