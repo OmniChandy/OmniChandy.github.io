@@ -2,13 +2,11 @@
 main:
   - title: Data analysis
     url: /data/
-  - title: Nonsense
-    url: /Nonsense/
-  - title: Reading
-    url: /Reading/
-  - title: Ozlife
-    url: /Ozlife/
   - title: Tech
     url: /Tech/
+  - title: Ozlife
+    url: /Ozlife/
+  - title: Nonsense
+    url: /Nonsense/
   - title: About
     url: /About/
