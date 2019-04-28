@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : A blog about nothing and everything
 title_separator          : “|”
 name                     : OmniChandy 翟先生
-description              : “A nothing related nonsense blog about every step towards self-destruction.”
+description              : “A self-paced learning journey with thoughts on the way.”
 url                      : "https://omnichandy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "OmniChandy/OmniChandy"
@@ -81,7 +81,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : Living in Melbourne, postgraduated, between jobs, WOW casual player, business information system intern. Tattoo fan with no tattoo.
   location         : The far South of China                                - Melbourne
-  email            : chandlerzhai@gmail.com
+  email            : chandlerzhai@outlook.com
   uri              : 
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :"OmniChandy"
   google_plus      :
   keybase          :
   instagram        :
@@ -244,3 +244,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope: 
+      path: “”
+      type: posts
+    values:
+      layout: single
+      author_profile: true
