@@ -7,8 +7,11 @@ comments: true
 ---
 
 I don't like being average.
+
 Born in China, decided to have a go in Australia.
-I graduated from Monash with Master of Business Information Systems.
+
+Graduated from Monash with Master of Business Information Systems.
+
 Determined to pursue a future in Data analysis direction.
 
 {% include base_path %}
