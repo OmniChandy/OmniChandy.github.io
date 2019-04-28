@@ -106,7 +106,7 @@ if __name__ == "__main__":
 ```
 
 
-![png](output_1_0.png)
+![png]({{ "/assets/images/output_1_0.png" }})
 
 
 
