@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /data-analysis-learning/
+permalink: /data/
 title: Data analysis learning notes.
 author_profile: true
 comments: true

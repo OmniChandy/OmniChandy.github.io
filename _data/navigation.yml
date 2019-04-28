@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: Data analysis
+    url: /data/
   - title: Nonsense
     url: /Nonsense/
   - title: Cooking
@@ -8,8 +10,6 @@ main:
     url: /Reading/
   - title: Ozlife
     url: /Ozlife/
-  - title: vape
-    url: /vape/
   - title: Tech
     url: /Tech/
   - title: About
