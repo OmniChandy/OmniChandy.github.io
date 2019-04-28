@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Cooking/
-title: Cooking experience
+title: Cooking tutorial
 author_profile: true
 comments: true
 ---
