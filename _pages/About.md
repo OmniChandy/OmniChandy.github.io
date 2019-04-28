@@ -1,10 +1,15 @@
 ---
 layout: archive
 permalink: /About/
-title: About me and this blog and my bio
+title: About
 author_profile: true
 comments: true
 ---
+
+I don't like being average.
+Born in China, decided to have a go in Australia.
+I graduated from Monash with Master of Business Information Systems.
+Determined to pursue a future in Data analysis direction.
 
 {% include base_path %}
 
