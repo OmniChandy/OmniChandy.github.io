@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "The first Practice"
 
 categories: 
