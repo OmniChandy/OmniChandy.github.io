@@ -4,8 +4,6 @@ title:  "The first Practice"
 
 categories: 
   - data
-tags:
-  - machine-learning
 ---
 
 
